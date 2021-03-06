@@ -2,7 +2,6 @@
 
 Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name Harshil Tagadiya. You can find me on [![LinkedIn][3.2]][3].
 
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
@@ -58,6 +57,7 @@ Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 <!--
+
 **harshil-270/harshil-270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
