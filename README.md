@@ -1,7 +1,7 @@
 [<img src="./typing intro.gif" alt="Hi, I amHarshil">](https://github.com/harshil-270/)
 
 <!--  -->
-Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Harshil Tagadiya, a pre-final year CSE student at Nirma University. I am competitive programmer and full stack web developer. 
+Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Harshil Tagadiya, a pre-final year CSE student at Nirma University. I am a competitive programmer and full stack web developer. 
 
 <!-- links to social media icons -->
   #### 📫 How to reach me:
