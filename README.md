@@ -31,9 +31,9 @@ Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
   
 ## &#x1f4c8; GitHub Stats
   
-<span>
-  <img src="https://github-readme-stats.vercel.app/api?username=harshil-270&show_icons=true&theme=tokyonight" alt="Harshil's Github Stats" height="190em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil-270&layout=compact&theme=tokyonight" alt="Harshil's most used languages" height="190em" />
+<span width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshil-270&show_icons=true&theme=tokyonight" alt="Harshil's Github Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil-270&layout=compact&theme=tokyonight" alt="Harshil's most used languages" width="47%" />
 </span>
   
 <!-- Other Stats -->
