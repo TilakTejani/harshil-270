@@ -13,7 +13,7 @@
 
 ## 📖 About Me
 - 🎓 I am Harshil Tagadiya, a pre-final year CSE student at Nirma University
-- 🖥 Full-stack Software Developer
+- 🖥 Full-stack Web Developer
 - 👨‍💻 Competitive Programmer - Candidate Master @Codeforces [Harshil_](https://codeforces.com/profile/Harshil_)
 
 
@@ -21,7 +21,7 @@
 ## 📫 How to reach me:
   
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/harshil-tagadiya/) 
-&nbsp; <a href="mailto:harshiltagadiya@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+&nbsp; <a href="mailto:harshiltagadiya@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>
 &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/harshil_tagadiya/) 
 <!-- &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discordapp.com/users/693479853822967828/) -->
 
