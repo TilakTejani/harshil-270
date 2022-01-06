@@ -1,10 +1,24 @@
 [<img src="./typing intro.gif" alt="Hi, I amHarshil">](https://github.com/harshil-270/)
 
-<!--  -->
-Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Harshil Tagadiya, a pre-final year CSE student at Nirma University. I am a competitive programmer and full stack web developer. 
+<!-- Intro -->
+<!-- Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> . I am a competitive programmer and full stack web developer.  -->
+
+
+<!-- Other Stats -->
+<p align="center">
+  <a href="https://codeforces.com/profile/Harshil_"><img src="https://cp-logo.vercel.app/codeforces/Harshil_"/></a>
+  <a href="https://github.com/harshil-270/"><img src="https://komarev.com/ghpvc/?username=harshil-270" alt="Harshil's Profile Views" /></a>
+  <a href="https://github.com/harshil-270/"><img src="https://img.shields.io/github/followers/harshil-270?style=flat&color=red&label=GitHub%20Followers%20"/></a>
+</p>
+
+## 📖 About Me
+- 🎓 I am Harshil Tagadiya, a pre-final year CSE student at Nirma University
+- 🖥 Full-stack Software Developer
+- 👨‍💻 Competitive Programmer - Candidate Master @Codeforces [Harshil_](https://codeforces.com/profile/Harshil_)
+
 
 <!-- links to social media icons -->
-  #### 📫 How to reach me:
+## 📫 How to reach me:
   
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/harshil-tagadiya/) 
 &nbsp; <a href="mailto:harshiltagadiya@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
@@ -31,16 +45,12 @@ Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
   
 ## &#x1f4c8; GitHub Stats
   
-<span width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshil-270&show_icons=true&theme=tokyonight" alt="Harshil's Github Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil-270&layout=compact&theme=tokyonight" alt="Harshil's most used languages" width="47%" />
+<span width="100%" stlye="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshil-270&show_icons=true&theme=tokyonight" alt="Harshil's Github Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil-270&layout=compact&theme=tokyonight" alt="Harshil's most used languages" height="180px" />
 </span>
-  
+<!--   
 <!-- Other Stats -->
-<p align="center">
-  <a href="https://github.com/harshil-270/"><img src="https://komarev.com/ghpvc/?username=harshil-270" alt="Harshil's Profile Views" /></a>
-  <a href="https://github.com/harshil-270/"><img src="https://img.shields.io/github/followers/harshil-270?style=flat&color=red&label=GitHub%20Followers%20"/></a>
-</p>
 
 <!-- Another version of Github Stats -->
 <!-- <a href="https://github.com/harshil-270/harshil-270">
