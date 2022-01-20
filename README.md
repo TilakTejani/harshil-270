@@ -14,7 +14,9 @@
 ## 📖 About Me
 - 🎓 I am Harshil Tagadiya, a pre-final year CSE student at Nirma University
 - 🖥 Full-stack Web Developer
-- 👨‍💻 Competitive Programmer - Candidate Master @Codeforces [Harshil_](https://codeforces.com/profile/Harshil_)
+- 👨‍💻 Competitive Programmer 
+ 
+<!-- - Candidate Master @Codeforces [Harshil_](https://codeforces.com/profile/Harshil_) -->
 
 
 <!-- links to social media icons -->
