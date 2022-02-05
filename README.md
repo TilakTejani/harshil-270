@@ -6,7 +6,7 @@
 
 <!-- Other Stats -->
 <p align="center">
-  <a href="https://codeforces.com/profile/Harshil_"><img src="https://cp-logo.vercel.app/codeforces/Harshil_"/></a>
+<!--   <a href="https://codeforces.com/profile/Harshil_"><img src="https://cp-logo.vercel.app/codeforces/Harshil_"/></a> -->
   <a href="https://github.com/harshil-270/"><img src="https://komarev.com/ghpvc/?username=harshil-270" alt="Harshil's Profile Views" /></a>
   <a href="https://github.com/harshil-270/"><img src="https://img.shields.io/github/followers/harshil-270?style=flat&color=red&label=GitHub%20Followers%20"/></a>
 </p>
