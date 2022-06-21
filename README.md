@@ -12,7 +12,7 @@
 </p>
 
 ## 📖 About Me
-- 🎓 I am Harshil Tagadiya, a pre-final year CSE student at Nirma University
+- 🎓 I am Harshil Tagadiya, a final year CSE student at Nirma University
 - 🖥 Full-stack Web Developer
 - 👨‍💻 Competitive Programmer 
  
